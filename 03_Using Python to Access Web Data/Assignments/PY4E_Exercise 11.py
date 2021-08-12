@@ -8,7 +8,7 @@ looking for a regular expression of '[0-9]+'
 and then converting the extracted strings to
 integers and summing up the integers.
 '''
-# omport thr regular expression library
+# import the regular expression library
 import re  # noqa
 
 # open and read the whole txt-file
