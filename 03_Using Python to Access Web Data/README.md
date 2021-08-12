@@ -1,4 +1,4 @@
-# Python for Everybody - Using Python to Access Web Data 
+# Python for Everybody - Using Python to Access Web Data
 
 ## Description
 This course shows how one can treat the Internet as a source of data. It teaches to scrape, parse, and read web data as well as access data using web APIs. The programmer will work with HTML, XML, and JSON data formats in Python. This course will cover chapters 11-13 of the textbook “Python for Everybody”. To succeed in this course, you should be familiar with the material covered in chapters 1-10 of the textbook and the first two courses in this specialization. These topics include variables and expressions, conditional execution (loops, branching, and try/except), functions, Python data structures (strings, lists, dictionaries, and tuples), and manipulating files. 
