@@ -11,7 +11,7 @@ This specialization has 5 courses, each of them covering different topics and py
 4. [Using Databases with Python](https://github.com/kevin-goetz/Python-for-Everybody-Specialization/tree/main/04_Using%20Databases%20with%20Python)
 5. [Capstone: Retrieving, Processing, and Visualizing Data with Python](https://github.com/kevin-goetz/Python-for-Everybody-Specialization/tree/main/05_Capstone_Retrieving%2C%20Processing%20and%20Visualizing%20Data%20with%20Python)
 
-## Technology Stack
+## Skills
 Technical skills learned in this specialization are:
 - Basic Programming Principles
 - Python Programming (Syntax And Semantics)
