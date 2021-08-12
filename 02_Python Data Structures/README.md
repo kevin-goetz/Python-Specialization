@@ -1,4 +1,4 @@
-# Python for Everybody - Python Data Structures
+# Python for Everybody - Python Data Structures 
 
 ## Description
 This course introduces the core data structures of the Python programming language. It moves past the basics of procedural programming and explores how a programmer can use the Python built-in data structures such as lists, dictionaries, sets, and tuples to perform increasingly complex data analysis. This course covers Chapters 6-10 of the textbook “Python for Everybody”.
