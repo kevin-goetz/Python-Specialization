@@ -1,4 +1,4 @@
-# Python for Everybody - Using Python to Access Web Data
+# Python for Everybody - Capstone: Retrieving, Processing and Visualizing Data with Python
 
 ## Description
 The Capstone was an extensive quiz on all the things learned in the previous courses of the specialization.
