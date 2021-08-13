@@ -7,7 +7,7 @@ This 5-course Python specialization from the University of Michigan (hosted on C
 This specialization has 5 courses, each of them covering different topics and python packages. Every course has it's own README + all coding assignments included in this Repo, so if you are interested feel free to visit my other folders (click the links). The courses are:
 1. [Programming for Everybody (Getting Started with Python)](https://github.com/kevin-goetz/Python-for-Everybody-Specialization/tree/main/01_Programming%20for%20Everybody%20(Getting%20Started%20with%20Python))
 2. [Python Data Structures](https://github.com/kevin-goetz/Python-for-Everybody-Specialization/tree/main/02_Python%20Data%20Structures)
-3. [Using Python to Access Web Data](https://github.com/kevin-goetz/Python-for-Everybody-Specialization/tree/main/03_Using%20Python%20to%20Acess%20Web%20Data)
+3. [Using Python to Access Web Data](https://github.com/kevin-goetz/Python-for-Everybody-Specialization/tree/main/03_Using%20Python%20to%20Access%20Web%20Data)
 4. [Using Databases with Python](https://github.com/kevin-goetz/Python-for-Everybody-Specialization/tree/main/04_Using%20Databases%20with%20Python)
 5. [Capstone: Retrieving, Processing, and Visualizing Data with Python](https://github.com/kevin-goetz/Python-for-Everybody-Specialization/tree/main/05_Capstone_Retrieving%2C%20Processing%20and%20Visualizing%20Data%20with%20Python)
 
