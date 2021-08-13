@@ -1,4 +1,4 @@
-# Python for Everybody - Using Python to Access Web Data
+# Python for Everybody - Using Databases with Python
 
 ## Description
 This course introduces students to the basics of the Structured Query Language (SQL) as well as basic database design for storing data as part of a multi-step data gathering, analysis, and processing effort. The course uses SQLite3 as its database.  Participants also build web crawlers and multi-step data gathering and visualization processes. This course uses the D3.js library to do basic data visualization. The content is also covered in the Chapters 14-15 of the book “Python for Everybody”. To succeed in this course, you should be familiar with the material covered in Chapters 1-13 of the textbook and the first three courses in this specialization.
