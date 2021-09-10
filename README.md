@@ -1,5 +1,14 @@
 # Python for Everybody - Specialization
 
+## Access 
+View the notebooks online:
+[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/kevin-goetz/Python-Specialization/tree/main/)
+
+Excecute the notebooks online: 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kevin-goetz/Python-Specialization/HEAD)
+
+ This can take some time if the binder environment needs to be rebuilt.
+
 ## Description
 This 5-course Python specialization from the University of Michigan (hosted on Coursera) introduces fundamental programming concepts including data structures, networked application program interfaces, and databases, using the Python programming language. The courses build up on each other and with a pace of 3h/week it should take up to 8 month to complete this specialization.
 
